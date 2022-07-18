@@ -65,7 +65,7 @@
 
 .humidity{
     padding:10px;
-    padding-bottom: 6px;
+    padding-bottom: 4px;
     font-size:22px;
     letter-spacing: 0.8px;
     font-size: bolder;
@@ -78,7 +78,7 @@
 }
 .info{
     padding:10px;
-    padding-bottom: 6px;
+    padding-bottom: 4px;
     font-size:22px;
     letter-spacing: 0.8px;
     font-size: bolder;
